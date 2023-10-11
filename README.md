@@ -73,6 +73,6 @@ That's it! You're all set up with osTicket. Enjoy using it for your helpdesk nee
 <hr>
 <h1><p align=center>All Done</p></h1>
 
-<h2><p align=center>Next Demonstration:<br><a href="https://github.com/JasonDelahoussaye/post-install-config/blob/main/README.md">osTicket - Post-Install Configuration</a></p></h2>
+
 
 
