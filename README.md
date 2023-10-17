@@ -31,8 +31,9 @@ HeidiSQL
 First things first, let's enable IIS with CGI and Common HTTP Features and install the IIS Management Console. During the installation process, make sure to tick the checkboxes for CGI and Common HTTP Features in the World Wide Web Services -> Application Development Features section. Additionally, enable the IIS Management Console in the Internet Information Services -> Web Management Tools section. We need these features to get things rolling smoothly.
 </p>
 <br />
-<p>
-<img src="https://imgur.com/DRcGJ2k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Kenny440715/osticket-prereqs/assets/145734555/a26c0f47-650f-4bcb-a481-5373b5b278c0)
+
+
 </p>
 <p>
 Next up, it's time to download and install the PHP Manager for IIS. You can find the installation file (PHPManagerForIIS_V1.5.0.msi) and get it set up. Don't forget to also download and install the Rewrite Module (rewrite_amd64_en-US.msi) to enhance our URL rewriting capabilities.
