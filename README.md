@@ -31,8 +31,7 @@ HeidiSQL
 First things first, let's enable IIS with CGI and Common HTTP Features and install the IIS Management Console. During the installation process, make sure to tick the checkboxes for CGI and Common HTTP Features in the World Wide Web Services -> Application Development Features section. Additionally, enable the IIS Management Console in the Internet Information Services -> Web Management Tools section. We need these features to get things rolling smoothly.
 </p>
 <br />
-![image](https://github.com/Kenny440715/osticket-prereqs/assets/145734555/a26c0f47-650f-4bcb-a481-5373b5b278c0)
-
+<img src="https://i.imgur.com/gofK2PU.png" height="80%" width="80%" "/>
 
 </p>
 <p>
@@ -45,7 +44,7 @@ For the smooth functioning of PHP, we need to install the Visual C++ Redistribut
 <br />
 
 <p>
-<img src="https://imgur.com/6nZK5JM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rhdewju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now, let's focus on installing MySQL 5.5.62. Locate the installation file (mysql-5.5.62-win32.msi) and run it. During the installation, choose the typical setup option, launch the configuration wizard, select the standard configuration, and set the password as "Password1".
